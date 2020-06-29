@@ -1,1 +1,1 @@
-# mobilenet-vs-inception
+# mobilenet-example
