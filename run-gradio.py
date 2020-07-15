@@ -48,4 +48,5 @@ gr.Interface(
                 "that classify images into one of 1,000 categories: MobileNet (top), "
                 "a lightweight model that has an accuracy of 0.704, vs. InceptionNet"
                 "(bottom), a heavier model that has an accuracy of 0.779.",
+    thumbnail="thumbnail.png",
     examples=sample_images).launch();
